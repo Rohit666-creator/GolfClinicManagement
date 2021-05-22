@@ -1,0 +1,24 @@
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\bin\Debug\Golf-Clinic Management System.exe
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\bin\Debug\Golf-Clinic Management System.pdb
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\bin\Debug\Golf-Clinic Management System.xml
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form1.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form2.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form3.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form4.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form5.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form6.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form7.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form9.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Resources.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf-Clinic Management System.vbproj.GenerateResource.Cache
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf-Clinic Management System.exe
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf-Clinic Management System.xml
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf-Clinic Management System.pdb
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form10.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form11.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form12.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form13.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form14.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form15.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\bin\Debug\Golf-Clinic Management System.exe.config
+C:\Users\rohit\documents\visual studio 2010\Projects\Golf-Clinic Management System\Golf-Clinic Management System\obj\x86\Debug\Golf_Clinic_Management_System.Form16.resources
